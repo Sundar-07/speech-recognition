@@ -1,6 +1,7 @@
 # Speech-recognition
 1. Converting speech into text using python with google web speech.
 2. Also it supports an audio file as input 
+3. Final output text convert into word file
 
 ## Supported File Types
 Currently, SpeechRecognition supports the following file formats:
