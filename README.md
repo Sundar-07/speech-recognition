@@ -1,4 +1,4 @@
-# speech-recognition
+# Speech-recognition
 1. Converting speech into text using python with google web speech.
 2. Also it supports an audio file as input 
 
