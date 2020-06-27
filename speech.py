@@ -3,7 +3,7 @@ import time
 
 r = sr.Recognizer()
 mic = sr.Microphone()
-harvard = sr.AudioFile('C:/Users/HP/Downloads/New folder/harvard.wav')
+harvard = sr.AudioFile('C:/Users/HP/Downloads/New folder/harvard.wav') #audio file input
 with harvard as source:
     time.sleep(1)
     print('Say Something!!')
